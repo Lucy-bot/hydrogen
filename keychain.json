@@ -1,10 +1,10 @@
 {
-    "discord": "", // Discord Bot Token
-    "darksky": "", // DarkSky Weather API Key
-    "sherlock": "", // Sherlock API Key
+    "discord": "NjI3MzcwNzkzMzY5NjAwMDEx.Xg5RSg.tBVNTEggNn5enWEVLUzkJ3XZUgM", // Discord Bot Token
+    "darksky": "4dd5baca062952d41cd8945856d17a8a", // DarkSky Weather API Key
+    "sherlock": "8bef3c40efd7841a1ba7c47e56c417a77edf6e2f", // Sherlock API Key
     "google": {
-        "cx": "", // Google Search API CX
-        "search": "", // Google Search API Key
-        "geocode": "" // Google Geolocation API Key
+        "cx": "006262244491544866549:o9qvtecuwbd", // Google Search API CX
+        "search": "AIzaSyB68sJspFc1ZcFDEladws75yX_Hff7hs1o", // Google Search API Key
+        "geocode": "AIzaSyBGTQb9uBAFhe21cmg7d-POziAQqM8F97k" // Google Geolocation API Key
     }
 }
