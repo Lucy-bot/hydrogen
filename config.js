@@ -1,12 +1,12 @@
 module.exports = {
     // Default Prefix for Commands
-    sign: "!",
+    sign: "H!",
 
     // Directory where modules are located
     directory: "./commands/",
 
     // Users (user id) with bot admin controls
-    admin: ["132368482120499201"],
+    admin: ["539195184357965833"],
 
     // Mac Address of Server for reference to server status
     server: "82:dc:73:5d:a9:f1",
@@ -34,8 +34,8 @@ module.exports = {
     shake: {
         socket: "http://shake.kurisubrooks.com:3390",
         channels: {
-            post: "276249021579001857",
-            debug: "212917108445544449"
+            post: "662395586556854300",
+            debug: "662395586556854300"
         }
     }
 };
